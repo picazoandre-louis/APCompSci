@@ -1,0 +1,35 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=53098:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\easto\IdeaProjects\tessts\out\production\tessts Main
+A new Fighter has been created!
+Jem, a Fighter:
+STR:  17  INT:  13  AGI:  13  CON:  14
+ HP:  62/ 62
+ MP:   0/  0
+There are, 1 characters
+
+A new Mage has been created!
+Penhallow, a Mage:
+STR:   9  INT:  17  AGI:  12  WIS:  15
+ HP:   9/  9
+ MP:  47/ 47
+There are, 2 characters
+
+A new Paladin has been created!
+Zachariah, a Paladin:
+STR:  14  INT:  19  AGI:   9  WIS:  11  CON:  11
+ HP:  36/ 36
+ MP:  41/ 41
+There are, 3 characters
+
+A new Paladin has been created!
+Jessamine, a Priest:
+STR:   9  INT:  16  AGI:  11  CHA:  13
+ HP:   9/  9
+ MP:  42/ 42
+There are, 4 characters
+
+A new Fighter has been created!
+A new Paladin has been created!
+A new Paladin has been created!
+A new Mage has been created!
+
+Process finished with exit code 0
