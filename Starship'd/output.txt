@@ -1,0 +1,32 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=61131:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\easto\IdeaProjects\Starship'd\out\production\Starship'd Main
+Overall available fleet:
+Righteous Purpose:   Hull: 1037   Shield: 3177   Beam: 2573   Torpedoes: 12
+Inner Knowledge:   Hull: 1088   Shield: 2994   Beam: 2907   Torpedoes: 18
+Faithful Ardor:   Hull: 1159   Shield: 3026   Beam: 2835   Torpedoes: 19
+Furious Redemption:   Hull: 1223   Shield: 3128   Beam: 2658   Torpedoes: 19
+Furious Retribution:   Hull: 1188   Shield: 3016   Beam: 2951   Torpedoes: 19
+Glorious Interdiction:   Hull: 1678   Shield: 2322   Beam: 3156   Torpedoes: 26
+Holy Respite:   Hull: 1835   Shield: 2305   Beam: 3039   Torpedoes: 20
+Particular Justice:   Hull: 1959   Shield: 2040   Beam: 2610   Torpedoes: 28
+Profound Solitude:   Hull: 1663   Shield: 2325   Beam: 2977   Torpedoes: 22
+Retribution:   Hull: 1749   Shield: 2376   Beam: 3067   Torpedoes: 28
+Rigorous Prayer:   Hull: 2307   Shield: 2392   Beam: 3071   Torpedoes: 20
+Second Homogeneous Clarity:   Hull: 3165   Shield: 1692   Beam: 4164   Torpedoes: 50
+Third Glorious Consequence:   Hull: 4275   Shield: 1978   Beam: 4616   Torpedoes: 43
+Prophet of Truth's fleet:   Hull: 4180   Shield: 1663   Beam: 4145   Torpedoes: 43
+Second Solemn Accord:   Hull: 4698   Shield: 1521   Beam: 4062   Torpedoes: 42
+High Charity:   Hull: 3529   Shield: 1527   Beam: 4063   Torpedoes: 47
+Defense Battalion:
+Righteous Purpose:   Hull: 1084   Shield: 3231   Beam: 2851   Torpedoes: 10
+Inner Knowledge:   Hull: 1009   Shield: 2522   Beam: 2958   Torpedoes: 18
+Faithful Ardor:   Hull: 1130   Shield: 2854   Beam: 2615   Torpedoes: 11
+Furious Redemption:   Hull: 1204   Shield: 2595   Beam: 2878   Torpedoes: 19
+Furious Retribution:   Hull: 1046   Shield: 2851   Beam: 2652   Torpedoes: 11
+Offense Battalion:
+Second Homogeneous Clarity:   Hull: 4885   Shield: 1996   Beam: 4013   Torpedoes: 44
+Third Glorious Consequence:   Hull: 3133   Shield: 1818   Beam: 4644   Torpedoes: 46
+Prophet of Truth's fleet:   Hull: 3479   Shield: 1793   Beam: 4491   Torpedoes: 46
+Second Solemn Accord:   Hull: 3087   Shield: 1634   Beam: 4111   Torpedoes: 42
+High Charity:   Hull: 4985   Shield: 1653   Beam: 4742   Torpedoes: 46
+
+Process finished with exit code 0
